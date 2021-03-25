@@ -3,7 +3,7 @@
     <img src="https://rubyonrails.org/images/rails-logo.svg" width="400">
   </a>
 </p>
-
+Bonjour Paris!
 # Welcome to Rails
 
 ## What's Rails?
